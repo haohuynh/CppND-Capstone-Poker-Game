@@ -6,6 +6,10 @@
 <img src="Data/ClassDiagram.jpg"/>
 
 ## Install Qt Creator & Multimedia Libs
+$ sudo apt-get update
+
+$ sudo apt-get install build-essential
+
 $ sudo apt-get install qtcreator
 
 $ sudo apt install qt5-default
