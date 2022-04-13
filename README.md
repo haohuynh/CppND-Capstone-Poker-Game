@@ -9,11 +9,14 @@
 
 ## Install Qt Creator & Multimedia Libs
 $ sudo apt-get install qtcreator
+
 $ sudo apt install qt5-default
+
 $ sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5
 
 ## Create a Makefile && Make an Executable File
 $ qmake PokerGame.pro
+
 $ make
 
 ## Run PokerGame
