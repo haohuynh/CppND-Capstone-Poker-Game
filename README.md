@@ -1,5 +1,5 @@
 # CppND-Capstone-Poker-Game
-## Please Access to ./Data/PokerGame.webm for the Full Fideo of this Demo 
+## Please Access to ./Data/PokerGame.webm for a Full Fideo of this Demo 
 <img src="Data/PokerGame.gif"/>
 
 ## Class Diagram for Major Components 
