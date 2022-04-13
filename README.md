@@ -17,6 +17,10 @@ $ qmake PokerGame.pro
 
 $ make
 
+## (Optional) If there are compiling errors, please use the latest version of QMake
+QMake version 3.1
+Using Qt version 5.12.8 in /usr/lib/x86_64-linux-gnu
+
 ## Run PokerGame
 $ ./PokerGame
 
