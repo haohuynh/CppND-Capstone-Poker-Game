@@ -1,8 +1,6 @@
 # CppND-Capstone-Poker-Game
 
-<video autoplay loop muted playsinline>
-  <source src="Data/PokerGame.webm" type="video/webm">
-</video>
+<img src="Data/PokerGame.gif"/>
 
 ## Class Diagram for Major Components 
 <img src="Data/ClassDiagram.jpg"/>
