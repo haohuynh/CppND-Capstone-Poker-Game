@@ -14,31 +14,30 @@ TARGET = PokerGame
 TEMPLATE = app
 
 
-SOURCES += main.cpp\
-        mainwindow.cpp \
-    uicontroller.cpp \
-    mainscene.cpp \
-    pokerhelper.cpp \
-    pokerpushbutton.cpp \
-    pokercardtable.cpp \
-    bankroll.cpp \
-    pokerclient.cpp
+SOURCES += src/main.cpp\
+        src/mainwindow.cpp \
+    src/uicontroller.cpp \
+    src/mainscene.cpp \
+    src/pokerhelper.cpp \
+    src/pokerpushbutton.cpp \
+    src/pokercardtable.cpp \
+    src/bankroll.cpp \
+    src/pokerclient.cpp
 
-HEADERS  += mainwindow.h \
-    uicontroller.h \
-    mainscene.h \
-    pokerhelper.h \
-    pokerpushbutton.h \
-    pokercardtable.h \
-    bankroll.h \
-    pokerclient.h
+HEADERS  += src/mainwindow.h \
+    src/uicontroller.h \
+    src/mainscene.h \
+    src/pokerhelper.h \
+    src/pokerpushbutton.h \
+    src/pokercardtable.h \
+    src/bankroll.h \
+    src/pokerclient.h
 
 
-FORMS    += mainwindow.ui \
-    bankroll.ui
+FORMS    += src/mainwindow.ui \
+    src/bankroll.ui
 
 RESOURCES += \
-    images.qrc \
-    soundtracks.qrc
-
+    src/images.qrc \
+    src/soundtracks.qrc
 
