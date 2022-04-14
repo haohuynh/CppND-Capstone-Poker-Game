@@ -16,6 +16,13 @@ $ sudo apt install qt5-default
 
 $ sudo apt-get install qtmultimedia5-dev libqt5multimediawidgets5 libqt5multimedia5-plugins libqt5multimedia5
 
+## (Optional) If there are compiling errors when executing the below commands, please use the latest version of QMake
+QMake version 3.1
+
+Using Qt version 5.12.8 in /usr/lib/x86_64-linux-gnu
+
+Message "make nothing to be done for 'first'" means nothing is changed to the previous build. Please simply run the executable file.
+
 ## Create a Makefile && Make an Executable File
 $ qmake PokerGame.pro
 
